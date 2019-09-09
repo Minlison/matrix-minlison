@@ -1,0 +1,8 @@
+matrix-minlison:
+  LABEL: matrix-minlison
+  PROJECT_PATH: "/Users/yuanhang/Documents/Github/matrix-minlison/MatrixDemo/Pods/matrix-minlison.xcodeproj"
+  UUID: 84F49A32D62CEC736B913AB6ABAD6802
+Pods-MatrixDemo:
+  LABEL: Pods-MatrixDemo
+  PROJECT_PATH: "/Users/yuanhang/Documents/Github/matrix-minlison/MatrixDemo/Pods/Pods.xcodeproj"
+  UUID: E3CC57F6F0D01EAD4BF7F50EA6A515ED
