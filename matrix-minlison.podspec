@@ -57,7 +57,8 @@ Pod::Spec.new do |matrix|
       "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/KSCrashReportWriter.h", "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/Tools/KSMachineContext.h",
       "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/Tools/KSThread.h","matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/Tools/KSStackCursor.h",
       "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Reporting/Filters/**/*.h",
-      "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/Tools/KSJSONCodecObjC.h"]
+      "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/Tools/KSJSONCodecObjC.h",
+      "matrix/matrix-apple/Matrix/WCCrashBlockMonitor/KSCrash/Recording/KSSystemCapabilities.h"]
     arc.dependency  'matrix-minlison/matrixNonARC1'
   end
 
